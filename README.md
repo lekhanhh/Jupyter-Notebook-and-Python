@@ -4,4 +4,4 @@ From 2011-2014
 
 try to find some data from Dataset & plot it on figure 
 
-Correlation on Title & TotalPay
+Correlation of Title & TotalPay
